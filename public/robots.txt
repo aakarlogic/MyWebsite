@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aakarlogic.co.in/sitemap.xml
